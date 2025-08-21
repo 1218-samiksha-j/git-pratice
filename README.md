@@ -1,2 +1,2 @@
 # git-pratice
-this is my first learning on Github
+this is my first learning on Github.
